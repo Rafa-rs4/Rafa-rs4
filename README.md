@@ -1,8 +1,3 @@
-### Jorge Rafael Roncal Saravia
-Estudiante de Ingeniería de Sistemas (9no ciclo - Tercio Superior) en la UNTELS, con enfoque en Análisis de Datos, Business Intelligence y Modelado Predictivo. Orientado a traducir datos complejos en estrategias de negocio mediante limpieza de datos, análisis exploratorio y modelado predictivo para la toma de decisiones.
-
----
-
 ### Habilidades Técnicas
 * **Lenguajes:** Python, SQL
 * **Librerías:** Pandas, NumPy, Scikit-learn
